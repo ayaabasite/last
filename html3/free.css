@@ -1,0 +1,12 @@
+body{
+	color: red;
+}
+.one2{
+	border-top-style: solid;
+  border-bottom-style: solid;
+  border-color: RoyalBlue;
+  border-width: 1px;
+  padding-left: 5px;
+  font-family: "Courier New", Courier, monospace;
+  text-align: center;
+}
